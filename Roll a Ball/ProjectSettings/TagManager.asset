@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Pick Up
+  - Bad Pick Up
+  - Moving Wall
+  - West Wall
+  - East Wall
+  - Bad Wall
   layers:
   - Default
   - TransparentFX
